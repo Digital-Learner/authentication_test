@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+bob:
+  name: bobsyouruncle
+  email: bobsyouruncle@gmail.com
+
+martha:
+  name: martha
+  email: martha@example.com
